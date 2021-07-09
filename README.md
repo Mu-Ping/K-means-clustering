@@ -67,6 +67,3 @@
 ### 演算法改進
 * 缺點1 - 可透過「ISODATA」演算法改進
 * 缺點2 - 可透過「K-Means++」演算法改進
-
-@author： [Mu-Ping](https://github.com/Mu-Ping)  
-@e-mail： k0326jim@gmail.com
